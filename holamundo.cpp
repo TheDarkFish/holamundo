@@ -9,6 +9,9 @@ int main (){
 	cout<<"hola mundo";
 	Despedida();
 	cout<<"vamos empezando a corregir cosas";
+	cout<<"";
+	cout<<"para empezar desde aqui se comentara";
+	// para poder comentar se utiuliza "/" dos veces antes de la linea deseada
 
 
 return 0;
