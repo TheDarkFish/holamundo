@@ -8,6 +8,7 @@ int main (){
 	Pregunta();
 	cout<<"hola mundo";
 	Despedida();
+	cout<<"vamos empezando a corregir cosas";
 
 
 return 0;
