@@ -4,7 +4,13 @@ using namespace std;
 
 int main (){
 
-	cout<<"hola mundo"
+	SaludoFormal();
+	cout<<"hola mundo";
+
 
 return 0;
+}
+
+void SaludoFormal(){
+	cout<< "muy buenos dias";
 }
