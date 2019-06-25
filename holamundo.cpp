@@ -13,6 +13,10 @@ int main (){
 	cout<<"para empezar desde aqui se comentara";
 	// para poder comentar se utiuliza "/" dos veces antes de la linea deseada
 
+	/* si se quiere
+	comentar un parrafo se realizara por medio de un /* y terminando con lo mismo pero 
+	invertido*/
+
 
 return 0;
 }
